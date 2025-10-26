@@ -6,3 +6,15 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import japanize_matplotlib
 
+# 各社有車の稼働時間のまとめ
+
+### 目的
+‐社員が予約した内容から社有車の稼働時間を算出するための元データとしてまとめる
+
+raw_data = glob('ご予約リスト_*.csv')
+raw_data
+
+
+
+
+
